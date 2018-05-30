@@ -1,0 +1,2 @@
+# nlp-date-time-extraction-
+The project aims at providing an API (Application programming interface) which can be used to obtain the summarized text with details like event name, date, time and location. Natural language processing is used to chunk the text into the required fields. This makes it easier for the people to go through the summarized message. It can help them save a lot of time. Further it can be easily synced with the calendar, and reminders can be set accordingly
